@@ -13,6 +13,14 @@ git add
 git commit -m "add datos01.txt and tag V.0.1"
 git push origin master
 ```
+## Tabla
+
+|  Nombre del Compañero |  enlace a GitHub |
+| ---------- | ---------- |
+| Pedro Tarazi  | https://github.com/pedrotarazi/   |
+| Cesar Morichetti   | https://github.com/cesarmorichetti/   |
+| Juan Sardoy   | https://github.com/jbsardoy/   |
+
 
 
 ### Bibliografia
